@@ -34,6 +34,6 @@ This assignment consists of four technical analysis deliverables. You will submi
 
 
 
-![Demographics](https://user-images.githubusercontent.com/103701561/191857739-51806ae7-3c87-469f-bcac-85fc911f74d7.png)
+
 
 
